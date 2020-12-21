@@ -1,3 +1,1 @@
-# hello_world_django
-
-## My First Django App
+# My First Django App: hello_world_django
