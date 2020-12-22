@@ -52,7 +52,7 @@ Flask 1.1.2
 Werkzeug 1.0.1
 ```
 
-3. If your version of python is earlier than this, you need to install the latest version of python.
+3. If your version of flask is earlier than this, you need to install the latest version of flask.
 4. Install Flask by running the following command:
 ```
 pip install flask
