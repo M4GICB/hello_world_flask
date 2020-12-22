@@ -85,7 +85,7 @@ export FLASK_APP=HelloWorld_Flask.py
 ```
 set FLASK_APP=HelloWorld_Flask.py
 ```
-### 4. RUn the application with the folowing command
+### 4. Run the application with the folowing command
 ```
 flask run
 ```
