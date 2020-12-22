@@ -1,7 +1,9 @@
 # My First Flask Web App: hello_world_flask
 
 ## Description:
-This is a basic web application that has a home page and an about page. The home page is routed to `localhost:5000/` and `localhost:5000/home`. THe about page is routed to `localhost:5000/about`. This is a basic proof of concept project that shows how to set up a python Flask web application
+This is a basic web application that has a home page and an about page. The home page is routed to `localhost:5000/` and `localhost:5000/home`. The about page is routed to `localhost:5000/about`. This is a basic proof of concept project that shows how to set up a python Flask web application for learning purposes.
+
+Tutorial Being Followed: Corey Schafer Flask Tutorial - https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
 
 ## Set Up:
 ### Requirements:
